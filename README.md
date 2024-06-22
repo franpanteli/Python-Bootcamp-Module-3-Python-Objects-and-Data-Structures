@@ -14,7 +14,7 @@ This repository contains a library of my notes on the first half of the content 
   
 ### Course Sections Covered For "TensorFlow"
 • [1 of 36 Introduction to Python Data Types](https://github.com/franpanteli/Python-Bootcamp-Module-3-Python-Objects-and-Data-Structures/blob/main/Notes%20on%20Videos%20-%20Module%203%20Python%20Objects%20and%20Data%20Structures/1%20of%2036%20Introduction%20to%20Python%20Data%20Types.pdf)
-2. [2 of 36 Python Numbers](https://github.com/franpanteli/Python-Bootcamp-Module-3-Python-Objects-and-Data-Structures/blob/main/Notes%20on%20Videos%20-%20Module%203%20Python%20Objects%20and%20Data%20Structures/2%20of%2036%20Python%20Numbers.pdf)
+• [2 of 36 Python Numbers](https://github.com/franpanteli/Python-Bootcamp-Module-3-Python-Objects-and-Data-Structures/blob/main/Notes%20on%20Videos%20-%20Module%203%20Python%20Objects%20and%20Data%20Structures/2%20of%2036%20Python%20Numbers.pdf)
 3. [3 of 36 Coding Exercise 1_ Numbers_ Simple Arithmetic](https://github.com/franpanteli/Python-Bootcamp-Module-3-Python-Objects-and-Data-Structures/blob/main/Notes%20on%20Videos%20-%20Module%203%20Python%20Objects%20and%20Data%20Structures/3%20of%2036%20Coding%20Exercise%201_%20Numbers_%20Simple%20Arithmetic.pdf)
 4. [4 of 36 Numbers - FAQ](https://github.com/franpanteli/Python-Bootcamp-Module-3-Python-Objects-and-Data-Structures/blob/main/Notes%20on%20Videos%20-%20Module%203%20Python%20Objects%20and%20Data%20Structures/4%20of%2036%20Numbers%20-%20FAQ.pdf)
 5. [5 of 36 Quiz 1_ Numbers Quiz](https://github.com/franpanteli/Python-Bootcamp-Module-3-Python-Objects-and-Data-Structures/blob/main/Notes%20on%20Videos%20-%20Module%203%20Python%20Objects%20and%20Data%20Structures/5%20of%2036%20Quiz%201_%20Numbers%20Quiz.pdf)
